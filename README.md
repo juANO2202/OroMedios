@@ -1,7 +1,9 @@
-# Oromedios · Radio online
+﻿# Oromedios · Radio online
 
 Sitio web de **Oromedios**, radio online desde Ambato, Ecuador: "La radio del mundo en tu corazón".
 Landing page responsive con reproductor en directo, secciones de programación (clásicos, noticias, entretenimiento) y contacto.
+
+🌐 **Sitio en vivo:** [oromedios.com](https://oromedios.com/)
 
 ![Vista previa](docs/preview.png)
 
@@ -32,3 +34,8 @@ python -m http.server 8000
 ## Autor
 
 Juan Pashma
+
+## Licencia
+
+Distribuido bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE).
+
